@@ -1,0 +1,1 @@
+{"name":"Local: Binary_search","url":"d:\\Me\\c.p\\DSa\\LB DSA\\L13Binarysearch_questions\\Binary_search.cpp","tests":[{"id":1655139294975,"input":"2\n4 3\n2 3 5 8\n1 2\n2","output":"1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Me\\c.p\\DSa\\LB DSA\\L13Binarysearch_questions\\Binary_search.cpp","group":"local","local":true}

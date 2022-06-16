@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+/*---https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+*/
+
 int firstocc(int arr[],int n, int key){
     int s = 0;
     int e = n-1;
@@ -55,7 +58,7 @@ int main(){
 
     cout<<firstocc(arr,n,key);
     cout<<lastocc(arr,n,key);
-
+//--------for finding total no of occurence=------------------
     cout<<"totol no of occurence"<<(lastocc(arr,n,key)-firstocc(arr,n,key)+1);
     
 
